@@ -1,0 +1,6 @@
+auto br-lan
+iface br-lan inet dhcp 
+  bridge_stp on
+  bridge_ports eth0
+  bridge_fd 2
+  bridge_hw b8:27:eb:d3:5e:b5
