@@ -1,0 +1,8 @@
+zipgateway for Debian
+-------------------------------
+
+Unofficial package for Sigma Designs Z/IP Gateway. The Z/IP Gateway is an application that handles all co
+mmunication between Z-Wave and Z/IP in a similar way that a home router handles the communication between the home PC 
+and the Internet.
+
+-- Andres Calderon <andres.calderon@sigmadesigns.com> Tue, 5 Jun 2017 08:00:00 -0800
