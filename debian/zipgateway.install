@@ -10,4 +10,4 @@ ZIPR.x509_1024.pem usr/local/etc/zipgateway
 zipgateway.3 local/man/man3 
 eeprom.dat usr/local/var/lib/zipgateway
 radvd.conf etc
-
+etc/init.d/zipgateway etc/init.d
