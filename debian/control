@@ -8,5 +8,5 @@ Homepage: http://zwavepublic.com/developer
 
 Package: zipgateway
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, dhcpcd5, radvd, avahi-autoipd, bridge-utils, dhcp-helper, avahi-utils
+Depends: ${shlibs:Depends}, ${misc:Depends}, matrix-creator-init, dhcpcd5, radvd, avahi-autoipd, bridge-utils, dhcp-helper, avahi-utils
 Description: Unofficial package for Sigma Designs Z/IP Gateway. The Z/IP Gateway is an application that handles all communication between Z-Wave and Z/IP in a similar way that a home router handles the communication between the home PC and the Internet.
