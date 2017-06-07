@@ -1,0 +1,12 @@
+[Unit]
+Description=ZWave GATEWAY
+After=matrix-creator-firmware.service
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/zipgateway.sh start
+ExecStop=/usr/local/bin/zipgateway.sh stop
+RemainAfterExit=yes
+
+[Install]
+WantedBy=multi-user.target

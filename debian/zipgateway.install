@@ -10,4 +10,5 @@ ZIPR.x509_1024.pem usr/local/etc
 zipgateway.3 local/man/man3 
 eeprom.dat usr/local/var/lib/zipgateway
 radvd.conf etc
-zipgateway.sh etc/init.d
+zipgateway.sh usr/local/bin
+zipgateway.service lib/systemd/system

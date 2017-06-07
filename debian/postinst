@@ -1,0 +1,5 @@
+#!/bin/bash -e
+
+echo "Enabling ZIPGATEWAY service"
+systemctl enable zipgateway
+
