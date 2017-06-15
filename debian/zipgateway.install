@@ -12,3 +12,4 @@ eeprom.dat usr/local/var/lib/zipgateway
 radvd.conf etc
 zipgateway.sh usr/local/bin
 zipgateway.service lib/systemd/system
+br-lan etc/network/interfaces.d
