@@ -1,3 +1,10 @@
+zipgateway (2.61) unstable; urgency=medium
+
+  * 2.61 release
+  * Ethernet MAC cloning
+
+ -- Andres Calderon <andres.calderon@admobilize.com>  Wed, 21 Jun 2017 16:54:40 +0000
+
 zipgateway (0.1) unstable; urgency=medium
 
   * Initial release.
